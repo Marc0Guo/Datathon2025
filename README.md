@@ -42,6 +42,13 @@ The dataset used for this project can be accessed at:
 The final presentation summarizing our methodology, modeling strategy, and key findings:  
 **[PPT Download Link](https://www.canva.com/design/DAGlxQG7m3g/9873kRtrmPSsXDKxACnhmg/edit?utm_content=DAGlxQG7m3g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)** 
 
+
+## Visualization
+
+Tablau Data Visualization link:
+**[Link To Dashboard](https://public.tableau.com/app/profile/anna.huang8759/viz/datathon2025/MappingOnSeverityDistribution)
+
+
 ## Key Highlights
 
 - Fairness criteria on model evaluation
