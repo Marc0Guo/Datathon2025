@@ -46,7 +46,7 @@ The final presentation summarizing our methodology, modeling strategy, and key f
 ## Visualization
 
 Tablau Data Visualization link:
-**[Link To Dashboard](https://public.tableau.com/app/profile/anna.huang8759/viz/datathon2025/MappingOnSeverityDistribution)
+**[Link To Dashboard](https://public.tableau.com/app/profile/anna.huang8759/viz/datathon2025/MappingOnSeverityDistribution)**
 
 
 ## Key Highlights
